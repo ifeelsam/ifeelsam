@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<li>- 🌱 I’m currently learning MERN</li>
-<li>- 💬 Ask me about C++</li>
+<li> 🌱 I’m currently learning MERN</li>
+<li> 💬 Ask me about C++</li>
 
 
 <div> <a href="https://twitter.com/ifeelsam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
