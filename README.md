@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<li>🌱 I’m currently learning MERN</li>
+<li>🌱 I’m currently learning MERN</li> 
 <li>💬 Ask me about C++</li>
 
 
-<div> <a href="https://twitter.com/ifeelsam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:sanskarsharma9005@gmaii.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ifeelsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ifeelsam" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
