@@ -6,7 +6,10 @@
 
 
 
-<a href = "mailto:sanskarsharma9005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:sanskarsharma9005@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" />
+</a>
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ifeelsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ifeelsam" height="30" width="40" /></a></p>
