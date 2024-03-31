@@ -19,11 +19,9 @@
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/C.png" alt="C" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/html.png" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/css.png" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/mongo.png" alt="Mongodb" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/mysql.png" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/docker.png" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/git.png" alt="Git" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/linux.png" alt="Linux" width="40" height="40"/>
 </p>
