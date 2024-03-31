@@ -17,7 +17,7 @@
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/js.png" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="hhttps://github.com/ifeelsam/ifeelsam/blob/main/public/icons/C.png" alt="C" width="40" height="40"/>
-<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/htlm.png" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/html.png" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/css.png" alt="NodeJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
