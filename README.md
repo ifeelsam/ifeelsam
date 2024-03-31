@@ -16,7 +16,7 @@
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/py.png" alt="python" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/js.png" alt="Javascript" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/c++.png" alt="cpp" width="40" height="40"/>
-<img src="hhttps://github.com/ifeelsam/ifeelsam/blob/main/public/icons/C.png" alt="C" width="40" height="40"/>
+<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/C.png" alt="C" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/html.png" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/css.png" alt="NodeJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
