@@ -1,19 +1,20 @@
 ![alt text](https://github.com/ifeelsam/ifeelsam/blob/main/public/gitpng.png)
 
 </div>
-<li>🌱 I’m currently learning MERN</li> 
-<li>💬 Ask me about C++</li>
+<h2>🌱 currently learning Web3</h2> 
+<h1>💬 Ask me about C++</h2>
 
 
 
-<a href="mailto:sanskarsharma9005@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhjKCKTxkXFqZqbxQtVGKPwdTDFVpRZdqdQjDdpPfSfQVRRwXPpxxpkMJDTDvPTPmNL">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" />
 </a>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ifeelsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ifeelsam" height="30" width="40" /></a></p>
-<a href="https://instagram.com/ifeelsam_" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/insta.png" alt="ifeelsam" height="30" width="40" /></a></p>
+<a href="https://twitter.com/ifeelsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ifeelsam" height="30" width="40" />
+<a href="https://www.instagram.com/ifeelsam_" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/insta.png" alt="insta" width="40" height="40"/>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/figma.png" alt="figma" width="40" height="40"/>
