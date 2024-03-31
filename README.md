@@ -21,7 +21,7 @@
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/css.png" alt="NodeJs" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/mongo.png" alt="Mongodb" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/mysql.png" alt="Mysql" width="40" height="40"/>
-<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/docker.png" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/docker.png" alt="Docker" width="50" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/git.png" alt="Git" width="40" height="40"/>
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/linux.png" alt="Linux" width="40" height="40"/>
 </p>
