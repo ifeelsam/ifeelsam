@@ -5,10 +5,10 @@
 <h2>💬 Ask me about C++</h2>
 
 
-
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhjKCKTxkXFqZqbxQtVGKPwdTDFVpRZdqdQjDdpPfSfQVRRwXPpxxpkMJDTDvPTPmNL">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" />
-</a>
+<a href="mailto:sanskar.iitm@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhjKCKTxkXFqZqbxQtVGKPwdTDFVpRZdqdQjDdpPfSfQVRRwXPpxxpkMJDTDvPTPmNL"> -->
+<!--   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" /> -->
+<!-- </a> -->
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
