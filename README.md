@@ -1,8 +1,8 @@
 ![alt text](https://github.com/ifeelsam/ifeelsam/blob/main/public/gitpng.png)
 
 </div>
-<h2>🌱 Currently learning Web3</h2> 
-<h2>💬 Ask me about C++</h2>
+<!-- <h2>🌱 Currently learning Web3</h2>  -->
+<!-- <h2>💬 Ask me about C++</h2> -->
 
 
 <a href="mailto:sanskar.iitm@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
@@ -10,8 +10,8 @@
 <!--   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" /> -->
 <!-- </a> -->
 
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- </div><h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left"> -->
 <!-- <a href="https://www.x.com/ifeelsam" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/x.png" alt="ifeelsam" height="40u" width="40" /></a> -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
