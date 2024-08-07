@@ -12,7 +12,7 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.x.com/ifeelsam" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/x.png" alt="ifeelsam" height="40u" width="40" /></a>
+<!-- <a href="https://www.x.com/ifeelsam" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/x.png" alt="ifeelsam" height="40u" width="40" /></a> -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
