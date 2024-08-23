@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ifeelsam/ifeelsam/blob/main/public/gitpng.png)
 
-</div>
+<!-- </div> -->
 <!-- <h2>🌱 Currently learning Web3</h2>  -->
 <!-- <h2>💬 Ask me about C++</h2> -->
 
