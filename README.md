@@ -14,6 +14,18 @@
 <!-- <p align="left"> -->
 <!-- <a href="https://www.x.com/ifeelsam" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/x.png" alt="ifeelsam" height="40u" width="40" /></a> -->
 <!-- </p> -->
+
+```elixir
+ifeelsam
+-------------------------
+OS: Fedora Linux x86_64
+Shell: zsh 5.9
+Blockchain: Arweave, Ethereum
+Frameworks: Express.js, Next.js, ReactJS, TailwindCSS
+Languages: JS, TS, Python
+Databases: MongoDB, PostgreSQL
+-------------------------
+```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/figma.png" alt="figma" width="40" height="40"/>
