@@ -1,11 +1,9 @@
-![alt text](https://github.com/ifeelsam/ifeelsam/blob/main/public/gitpng.png)
+<!--![alt text](https://github.com/ifeelsam/ifeelsam/blob/main/public/gitpng.png)-->
 
 <!-- </div> -->
 <!-- <h2>🌱 Currently learning Web3</h2>  -->
 <!-- <h2>💬 Ask me about C++</h2> -->
 
-
-<a href="mailto:sanskar.iitm@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRsqXhjKCKTxkXFqZqbxQtVGKPwdTDFVpRZdqdQjDdpPfSfQVRRwXPpxxpkMJDTDvPTPmNL"> -->
 <!--   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Link" /> -->
 <!-- </a> -->
@@ -26,6 +24,7 @@ Languages: JS, TS, Python
 Databases: MongoDB, PostgreSQL
 -------------------------
 ```
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/figma.png" alt="figma" width="40" height="40"/>
