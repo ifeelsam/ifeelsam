@@ -16,11 +16,11 @@
 ```elixir
 ifeelsam
 -------------------------
-OS: Fedora Linux x86_64
+OS: Fedora Linux 41 x86_64
 Shell: zsh 5.9
-Blockchain: Arweave, Ethereum
+Blockchain: Arweave, Ethereum, Solana
 Frameworks: Express.js, Next.js, ReactJS, TailwindCSS
-Languages: JS, TS, Python
+Languages: JS, TS, Rust, Python
 Databases: MongoDB, PostgreSQL
 -------------------------
 ```
