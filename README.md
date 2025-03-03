@@ -13,7 +13,7 @@
 <!-- <a href="https://www.x.com/ifeelsam" target="blank"><img align="center" src="https://github.com/ifeelsam/ifeelsam/blob/main/public/icons/x.png" alt="ifeelsam" height="40u" width="40" /></a> -->
 <!-- </p> -->
 
-```bash
+```elixir
 ifeelsam
 -------------------------
 OS: Fedora Linux 41 x86_64
