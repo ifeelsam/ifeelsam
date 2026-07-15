@@ -17,7 +17,7 @@ ifeelsam
 -------------------------
 OS: Fedora Linux 41 x86_64
 Shell: zsh 5.9
-Blockchain: Arweave, Ethereum, Solana
+Blockchain: Solana, Arweave, Ethereum
 Frameworks: Express.js, Next.js, ReactJS, TailwindCSS
 Languages: JS, TS, Rust, Python
 Databases: MongoDB, PostgreSQL
